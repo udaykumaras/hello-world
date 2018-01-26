@@ -1,2 +1,5 @@
 # hello-world
-Initialize this repository with a README
+hello every one!
+
+I'm here to learn creating CI/CD pipelines.
+
